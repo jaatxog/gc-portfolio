@@ -41,7 +41,7 @@ const COMMANDS = {
     "Email:    gjat928@gmail.com",
     "Phone:    +91-8696383333",
     "LinkedIn: linkedin.com/in/ganesh928",
-    "GitHub:   github.com/jaatxog",
+    "GitHub:   github.com/ganesh928k",
     "Location: Jaipur, Rajasthan, India",
   ],
   uptime: () => {
