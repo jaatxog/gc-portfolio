@@ -56,7 +56,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://github.com/jaatxog"
+            href="https://github.com/ganesh928k"
             target="_blank"
             rel="noreferrer"
             className="px-3 py-1.5 font-mono text-xs border border-[#00ff9f]/40 text-[#00ff9f] rounded hover:bg-[#00ff9f]/10 transition-all duration-200 tracking-wider"
